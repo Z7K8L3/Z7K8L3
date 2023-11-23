@@ -11,7 +11,7 @@
 
 - 📫 How to reach me **zukile.81.lubanga@gmail.com**
 
-- ⚡ Fun fact **I'm left-handed but use my right hand for most daily tasks.**
+- ⚡ Fun fact **I'm left-handed but use my right hand for most daily tasks. When we're left-handed, our right brains are usually dominant, and that's where creativity and intuition are centered.**
 
 <h3 align="left">About Me</h3>
 <p align="left">
