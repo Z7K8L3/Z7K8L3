@@ -3,8 +3,6 @@
 
 - 🌱 I’m currently learning **Javascript**
 
-- 🤝 I’m looking for help with [Capstone Project IWA19](https://github.com/Z7K8L3/ZUKLUB194_FTOW2306_ZukileLubanga_IWA_IWA19)
-
 - 👨‍💻 All of my projects are available at [https://github.com/Z7K8L3](https://github.com/Z7K8L3)
 
 - 💬 Ask me about **HTML and CSS**
