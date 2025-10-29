@@ -13,7 +13,7 @@
 
 <h3 align="left">About Me</h3>
 <p align="left">
-I'm a passionate and detail-oriented software development enthusiast currently studying at CodeSpace Academy, working towards earning my Software Development certificate, which I anticipate receiving in December. My journey into the world of code began with a strong interest in various areas of technology, including cars, gaming, fashion, and the world of Movies/Shows/YouTube.
+I'm a passionate and detail-oriented software development enthusiast, I studied at CodeSpace Academy, where I obtained my Software Development certificate in December 2023. My journey into the world of code began with a strong interest in various areas of technology, including cars, gaming, fashion, and the world of Movies/Shows/YouTube.
 
 🚗🎮👕🎥
 
